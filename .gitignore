@@ -4,6 +4,8 @@ logs
 npm-debug.log*
 
 .gitignore
+.bundle.js
+.bundle.js.map
 
 # Runtime data
 pids
